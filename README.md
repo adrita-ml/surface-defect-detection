@@ -38,6 +38,7 @@ Manual inspection of surface defects is inefficient and prone to errors. The goa
 - "test.jpg" → Sample input image
 
 🧪 Sample Usage
+
 The model can take an input image and classify whether it contains a surface defect.
 
 Example:
@@ -45,4 +46,5 @@ Example:
 - Output → Defect / No Defect
 
 ⚠️ Note
+
 This project simulates an industrial inspection pipeline and demonstrates how computer vision can be used in manufacturing quality control.
