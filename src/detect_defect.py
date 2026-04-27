@@ -1,3 +1,6 @@
+# Surface Defect Detection using CNN
+# This script loads a trained model and predicts defects on input images
+
 import sys
 import os
 import numpy as np
