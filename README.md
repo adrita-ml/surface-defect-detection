@@ -31,3 +31,18 @@ Manual inspection of surface defects is inefficient and prone to errors. The goa
   pip install -r requirements.txt
 2. Run the project:
   python src/detect_defect.py
+
+📂 Project Structure
+- "src/" → Core detection logic
+- "models/" → Trained model file
+- "test.jpg" → Sample input image
+
+🧪 Sample Usage
+The model can take an input image and classify whether it contains a surface defect.
+
+Example:
+- Input → surface image
+- Output → Defect / No Defect
+
+⚠️ Note
+This project simulates an industrial inspection pipeline and demonstrates how computer vision can be used in manufacturing quality control.
